@@ -1,0 +1,54 @@
+body {
+    background-color: #f8f9fa;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 520px;
+    margin: 3rem auto;
+    padding: 1.5rem;
+    gap: 1.5rem;
+}
+
+.page-header h1 {
+    margin-bottom: 0.5rem;
+    font-size: 1.85rem;
+    text-align: center;
+}
+
+.page-header p {
+    margin-top: 0;
+    margin-bottom: 1.75rem;
+    text-align: center;
+    color: #6c757d;
+}
+
+.form-card,
+.result-card {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+}
+
+.form-card label,
+.result-card h2 {
+    display: block;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.alert {
+    margin-top: 1rem;
+}

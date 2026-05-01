@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Corajosos, determinados e entusiastas, os arianos possuem uma energia pioneira e
+            forte liderança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Práticos, persistentes e amantes do conforto, valorizam a segurança e os prazeres
+            sensoriais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Curiosos, adaptáveis e comunicativos, os geminianos buscam constantemente por
+            conhecimento e trocas intelectuais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Emocionais, intuitivos e protetores, possuem uma forte ligação com a família e o
+            passado.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Generosos, criativos e entusiasmados, gostam de ser o centro das atenções e
+            possuem brilho próprio.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Analíticos, organizados e dedicados, buscam a perfeição e a utilidade prática em
+            tudo o que fazem.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Diplomáticos, sociáveis e equilibrados, valorizam a harmonia, a justiça e as
+            parcerias.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Intensos, apaixonados e determinados, possuem uma grande força de vontade e
+            capacidade de transformação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Otimistas, aventureiros e filosóficos, buscam liberdade e novos horizontes
+            constantemente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Responsáveis, ambiciosos e disciplinados, são focados em metas de longo prazo e
+            no sucesso profissional.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Inovadores, independentes e humanitários, costumam ter uma visão de mundo
+            original e progressista.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Empáticos, sonhadores e sensíveis, possuem uma forte conexão com o mundo
+            espiritual e emocional.</descricao>
+    </signo>
+</signos>
